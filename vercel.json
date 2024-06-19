@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "builds": [
+      { "src": "api/rss-to-json.js", "use": "@vercel/node" }
+  ],
+  "routes": [
+      { "src": "/rss-to-json", "dest": "/api/rss-to-json.js" }
+  ]
+}
