@@ -15,7 +15,7 @@ Spearheaded the development of intelligent voice outbound call products, introdu
 Recognized with the "Kexun Star" award in 2021 for outstanding contributions.
 
 - AI Product Manager at iFlytek Co., Ltd.(April 2018 – April 2021)
-- 
+
 Managed the intelligent voice product operations for Anhui Telecom's customer service center, maintaining industry-leading data metrics.
 Designed the intelligent voice product flow for FAW Hongqi, making it the first car company to integrate voice navigation, outbound calls, quality inspection, and text customer service into a "full-service portal."
 Contributed to the successful delivery of intelligent voice products for the Beijing Winter Olympics.Honored with the "Outstanding Team" award in 2019.
