@@ -9,11 +9,13 @@ I'm [Kioto XIA](//about.upstairs.cn/?github), an experienced Product Manager wit
 ### Work Experience
 
 - Senior Product Manager at Anhui Kexun Financial Technology Co., Ltd. (April 2021 – April 2023)
+
 Led the design and iteration of the smart financial brain platform for multiple regional rural commercial banks.
 Spearheaded the development of intelligent voice outbound call products, introducing several innovations such as "label outbound call," "automatic outbound call," "security desensitization," and "human-machine coupling."
 Recognized with the "Kexun Star" award in 2021 for outstanding contributions.
 
 - AI Product Manager at iFlytek Co., Ltd.(April 2018 – April 2021)
+- 
 Managed the intelligent voice product operations for Anhui Telecom's customer service center, maintaining industry-leading data metrics.
 Designed the intelligent voice product flow for FAW Hongqi, making it the first car company to integrate voice navigation, outbound calls, quality inspection, and text customer service into a "full-service portal."
 Contributed to the successful delivery of intelligent voice products for the Beijing Winter Olympics.Honored with the "Outstanding Team" award in 2019.
